@@ -1,5 +1,5 @@
 # Simple PHP Quick Start Framework
-A really Simple PHP framework that helps you get started on your projects.
+A really Simple PHP framework that helps on prototyping projects.
 
 ## Usage
 - Clone or download/extract this repository on your computer or server
